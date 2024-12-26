@@ -1,2 +1,2 @@
 # 3d-U-Net
-3d U-Net for mri to pet cross modal synthesis.
+Implementation of 3d U-Net architecture for mri to pet cross modal synthesis in Pytorch.
